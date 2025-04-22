@@ -104,7 +104,7 @@ OK，当完成以上八个步骤后，我们就已成功订阅ChatGPT Plus会员
 
 #### 第一步：访问银河官网。
 
-* 银河录像局官网：<a href="https://github.com/gptbmw/nf-video">https://github.com/gptbmw/nf-video</a>
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
 
 银河录像局的首页设计直观清晰，进入网站后就能一目了然地看到各类服务，轻松找到所需产品。
 
