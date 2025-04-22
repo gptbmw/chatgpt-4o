@@ -82,7 +82,7 @@ OK，当完成以上八个步骤后，我们就已成功订阅ChatGPT Plus会员
 
 银河录像局作为目前国内领先的合租平台，凭借其合规运营（持有浙ICP备2022036459号及浙B2-20230847 ICP经营许可证）和优质服务，已成为众多用户的首选。平台不仅提供稳定可靠的ChatGPT Plus合租服务，还包含未降智的GPT-4.5、最新GPT-4.1模型、满血版DeepSeek-R1、Grok-3及Gemini-2 Pro等顶尖AI模型，同时打造了一站式数字服务生态。
 
-* 银河录像局官网：<a href="https://github.com/gptbmw/nf-video">https://github.com/gptbmw/nf-video</a>
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
 * 优惠码：GPTBMW（可享九折优惠）
 
 ### 银河录像局提供的服务：
