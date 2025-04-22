@@ -16,7 +16,7 @@
 
 **方法二：合租ChatGPT Plus会员（适合学生党与尝鲜用户）**
 
-如果你就是想尝尝鲜，又不想花太多钱，那<a href="https://github.com/gptbmw/chatgpt-plus-hezu">拼车合租ChatGPT Plus</a>账号就很香了。你可以在一些靠谱的合租平台（比如<a href="https://github.com/gptbmw/nf-video">银河录像局</a>）找几个人一起拼车购买ChatGPT Plus账号，这样不仅能省下不少钱，还不用自己搞海外支付和科学上网，省心又省力。
+如果你就是想尝尝鲜，又不想花太多钱，那<a href="https://github.com/gptbmw/chatgpt-plus-hezu">拼车合租ChatGPT Plus</a>账号就很香了。你可以在一些靠谱的合租平台（比如<a href="https://nf.video/Sy195">银河录像局</a>）找几个人一起拼车购买ChatGPT Plus账号，这样不仅能省下不少钱，还不用自己搞海外支付和科学上网，省心又省力。
 
 这种"拼车"方式让你花小钱就能体验高级AI功能，性价比真的很高。特别适合手头紧的学生党，或者那些用不太频繁、偶尔才需要生成几张图的普通用户。先小投入试试水，觉得好用再考虑全额订阅也不迟。
 
