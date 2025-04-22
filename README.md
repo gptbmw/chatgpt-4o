@@ -38,9 +38,9 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 ### 第二步：注册Wildcard野卡账号。
 
-访问Wildcard野卡官网，点击右上角的"注册/登录"按钮，使用手机号码完成注册。
+* WildCard野卡官网：<a href="https://yeka.ai/i/GPTBMW">https://yeka.ai/i/GPTBMW</a>
 
-* WildCard野卡官网：<a href="https://github.com/gptbmw/wildcard">https://github.com/gptbmw/wildcard</a>
+访问Wildcard野卡官网，点击右上角的"注册/登录"按钮，使用手机号码完成注册。
 
 ### 第三步：开通WildCard野卡会员。
 
