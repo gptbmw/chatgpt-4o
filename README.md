@@ -70,10 +70,9 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 ### 第七步：复制ChatGPT Plus支付链接。
 
-返回我们在“第一步”中登录的ChatGPT账号，点击左上角的"升级"按钮，进入Plus订阅支付页面。注意：此时无需填写任何信息，只需复制浏览器地址栏中以"pay.openai.com"开头的完整URL。
+返回我们在“第一步”中注册并登录的ChatGPT账号，点击左上角的"升级"按钮，进入Plus订阅支付页面。注意：此时无需填写任何信息，只需复制浏览器地址栏中以"pay.openai.com"开头的完整URL。
 
 ![复制支付网址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-3.png)
-![使用Wildcard完成支付]
 
 ### 第八步：通过WildCard野卡平台完成ChatGPT Plus一键升级。
 
