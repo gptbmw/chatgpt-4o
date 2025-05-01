@@ -42,29 +42,44 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 访问Wildcard野卡官网，点击右上角的"注册/登录"按钮，使用手机号码完成注册。
 
+![注册wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-2%E6%B3%A8%E5%86%8C.jpg)
+
 ### 第三步：开通WildCard野卡会员。
 
 依次点击"立即开通"和"开通会员"按钮，进入会员开通流程。
+
+![开通wildcard会员](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/3-%E5%BC%80%E9%80%9Awildcard%E4%BC%9A%E5%91%98.jpg)
 
 ### 第四步：选择服务年限。
 
 选择所需的服务年限，并输入WildCard野卡专属邀请码"**GPTBMW**"可享受1美元的优惠。根据系统提示，依次点击"下一步"和"我知道了"，了解Wildcard支持的产品和使用须知，然后完成实名认证和个人信息填写。
 
+![选择服务年限](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/4-%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1%E5%B9%B4%E9%99%90%EF%BC%8C%E8%BE%93%E5%85%A5%E9%82%80%E8%AF%B7%E7%A0%81GPTBMW.jpg)
+
 ### 第五步：支付WildCard野卡年费。
 
 使用支付宝扫描页面上显示的二维码，完成年费支付。
+
+![支付wildcard年费](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/5-%E6%94%AF%E4%BB%98wildcard%E5%B9%B4%E8%B4%B9.jpg)
 
 ### 第六步：给WildCard野卡充值。
 
 新开通的WildCard野卡虚拟信用卡余额为0，需要先充值才能用于海外订阅。建议充值金额略高于订阅费用，例如ChatGPT Plus每月需要20美元，那么充值金额应≥20美元，以确保支付顺利进行。
 
+![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-7%E5%85%85%E5%80%BC.png)
+
 ### 第七步：复制ChatGPT Plus支付链接。
 
 返回我们在“第一步”中登录的ChatGPT账号，点击左上角的"升级"按钮，进入Plus订阅支付页面。注意：此时无需填写任何信息，只需复制浏览器地址栏中以"pay.openai.com"开头的完整URL。
 
+![复制支付网址](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-3.png)
+![使用Wildcard完成支付]
+
 ### 第八步：通过WildCard野卡平台完成ChatGPT Plus一键升级。
 
 再次返回到Wildcard野卡后台，点击左侧功能列表中的"ChatGPT一键升级"，选择产品和类型，将刚才复制的网址粘贴到输入框中，点击"下一步"，根据提示完成操作即可。
+
+![使用Wildcard完成支付](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-4.png)
 
 OK，当完成以上八个步骤后，我们就已成功订阅ChatGPT Plus会员。现在可以尽情体验GPT-4o的图像生成功能了！
 
@@ -108,21 +123,29 @@ OK，当完成以上八个步骤后，我们就已成功订阅ChatGPT Plus会员
 
 银河录像局的首页设计直观清晰，进入网站后就能一目了然地看到各类服务，轻松找到所需产品。
 
+![访问银河录像局官网](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/1-%E8%AE%BF%E9%97%AE%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80%E7%BD%91%E7%AB%99.jpg)
+
 #### 第二步：注册账号。
 
 点击右上角的"登录/注册"按钮。你可以选择手机号码注册、邮箱注册或微信扫码快速登录。根据个人习惯选择最方便的方式即可。
+
+![注册银河账号](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/2-%E6%B3%A8%E5%86%8C%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.jpg)
 
 #### 第三步：选择所需服务。
 
 在首页浏览并选择你需要的服务。每个服务页面都提供了详细说明，包括功能介绍、价格信息和使用教程。这些信息可以帮助你在购买前充分了解服务内容，选择最适合自己的套餐。
 
+![选择服务](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/3-%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8A%A1.jpg)
+
 #### 第四步：支付服务费用。
 
 选好服务分类和时长后，选择支付方式，记得输入优惠码“GPTBMW”享受九折优惠，然后扫码完成支付。
 
+![支付银河服务费用](https://raw.githubusercontent.com/gptbmw/chatgpt-4o/refs/heads/main/image/4-%E6%94%AF%E4%BB%98%E9%93%B6%E6%B2%B3%E6%9C%8D%E5%8A%A1%E8%B4%B9%E7%94%A8.jpg)
+
 #### 第五步：获取和使用账号。
 
-支付成功后，在个人中心的"我的服务"中查看已购买的服务，你将获得账号信息（用户名和密码）、详细使用教程、剩余有效期显示以及续费入口。对于需要特殊设置的服务（比如科学上网），银河录像局还提供了详细的图文教程，确保你能顺利使用。
+支付成功后，可以通过左侧我的车票或者页面顶端“车票”中查看已购买的服务，你将获得账号信息（用户名和密码）、详细使用教程、剩余有效期显示以及续费入口。对于需要特殊设置的服务（比如科学上网），银河录像局还提供了详细的图文教程，确保你能顺利使用。
 
 OK，整个注册购买过程简单快捷，如果在使用过程中遇到任何问题，都可以通过页面右下角的客服按钮联系客服，他们会提供专业的技术支持和贴心服务。此外，银河录像局还提供Claude、Netflix等AI工具和流媒体帐号合租服务。点击查看更多：<a href="https://github.com/gptbmw/nf-video">合租平台</a>、<a href="https://github.com/gptbmw/netflix-hezu">奈飞合租</a>、<a href="https://github.com/gptbmw/claude-pro">Claude合租</a>。
 
