@@ -66,7 +66,7 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 新开通的WildCard野卡虚拟信用卡余额为0，需要先充值才能用于海外订阅。建议充值金额略高于订阅费用，例如ChatGPT Plus每月需要20美元，那么充值金额应≥20美元，以确保支付顺利进行。
 
-![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-7%E5%85%85%E5%80%BC.png)
+![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-7%E5%85%85%E5%80%BC1.jpg)
 
 ### 第七步：复制ChatGPT Plus支付链接。
 
