@@ -64,7 +64,7 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 ### 第六步：给WildCard野卡充值。
 
-新开通的WildCard野卡虚拟信用卡余额为0，需要先充值才能用于海外订阅。建议充值金额略高于订阅费用，例如ChatGPT Plus每月需要20美元，那么充值金额应≥20美元，以确保支付顺利进行。
+新开通的<a href="https://github.com/gptbmw/wildcard">wildcard虚拟信用卡</a>余额为0，需要先充值才能用于海外订阅。建议充值金额略高于订阅费用，例如ChatGPT Plus每月需要20美元，那么充值金额应≥20美元，以确保支付顺利进行。
 
 ![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-7%E5%85%85%E5%80%BC1.jpg)
 
@@ -76,7 +76,7 @@ ChatGPT-4o的出现标志着AI已经从"只会看文字"进化到了"全感官�
 
 ### 第八步：通过WildCard野卡平台完成ChatGPT Plus一键升级。
 
-再次返回到Wildcard野卡后台，点击左侧功能列表中的"ChatGPT一键升级"，选择产品和类型，将刚才复制的网址粘贴到输入框中，点击"下一步"，根据提示完成操作即可。
+再次返回到<a href="https://github.com/gptbmw/wildcard">Wildcard野卡后台</a>，点击左侧功能列表中的"ChatGPT一键升级"，选择产品和类型，将刚才复制的网址粘贴到输入框中，点击"下一步"，根据提示完成操作即可。
 
 ![使用Wildcard完成支付](https://raw.githubusercontent.com/gptbmw/gptbmw.github.io/refs/heads/main/image/ChatGPT%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7-4.png)
 
@@ -86,7 +86,7 @@ OK，当完成以上八个步骤后，我们就已成功订阅ChatGPT Plus会员
 
 ## 合租ChatGPT Plus会员（适合学生党与尝鲜用户）
 
-对于使用频率较低的用户（如短期使用者、学生群体或技术尝鲜者），每月20美元的ChatGPT Plus订阅费用可能造成一定的经济负担。尤其是长期订阅的情况下，性价比不够理想。此外，许多用户还面临网络访问限制或支付方式受限等问题，无法直接订阅ChatGPT Plus会员。在这种情况下，银河录像局提供的<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus账号合租</a>方案成为一个实用的解决方案。
+对于使用频率较低的用户（如短期使用者、学生群体或技术尝鲜者），每月20美元的ChatGPT Plus订阅费用可能造成一定的经济负担。尤其是长期订阅的情况下，性价比不够理想。此外，许多用户还面临网络访问限制或支付方式受限等问题，无法直接<a href="https://github.com/gptbmw/gptbmw.github.io">订阅ChatGPT Plus</a>会员。在这种情况下，银河录像局提供的<a href="https://github.com/gptbmw/chatgpt-plus-hezu">ChatGPT Plus账号合租</a>方案成为一个实用的解决方案。
 
 * 降低使用成本：通过多人共享会员，大幅分摊订阅费用，让每位用户只需支付原价的几分之一。
 * 绕过访问限制：无需自行配置科学上网工具，直接使用已开通的账号。
